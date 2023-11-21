@@ -1,1 +1,2 @@
-# sketch_nov21a
+-- Arduino filename: sketch_nov21a  
+-- 確認馬達是不是真的可以讀到pwm小數點的值
